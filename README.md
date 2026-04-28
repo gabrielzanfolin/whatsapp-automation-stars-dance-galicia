@@ -25,6 +25,7 @@ I built a web-based platform that allows judges to:
 <img width="1440" height="900" alt="Captura de Tela 2026-04-28 às 01 55 45" src="https://github.com/user-attachments/assets/eb3ce638-a1d9-448f-a75c-ea08ac4cc17c" />
 <img width="1440" height="900" alt="Captura de Tela 2026-04-28 às 01 55 54" src="https://github.com/user-attachments/assets/a947609d-fec4-42dc-9f73-0f5db8436417" />
 <img width="1440" height="900" alt="Captura de Tela 2026-04-28 às 01 56 30" src="https://github.com/user-attachments/assets/19626e81-729d-4465-bbd1-0457a9725e00" />
+<img width="997" height="579" alt="Captura de Tela 2026-04-28 às 02 04 54" src="https://github.com/user-attachments/assets/5c5271e9-c1aa-4ed9-8bd1-df26c496ffb5" />
 
 
 > **Note:** The source code for this project is private due to client confidentiality and data protection (GDPR). This repository serves as documentation of the technical architecture and implementation.
